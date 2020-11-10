@@ -3,3 +3,4 @@ pasta:
 - kip
 - kipkruiden
 - sojasaus
+- zonebloem-olie
