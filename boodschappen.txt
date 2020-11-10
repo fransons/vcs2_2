@@ -9,3 +9,4 @@ ontbijt:
 - volkoren brood
 - kipfilet
 - vitamine water
+- volkoren crackers
