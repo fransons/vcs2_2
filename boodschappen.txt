@@ -4,3 +4,8 @@ pasta:
 - kipkruiden
 - sojasaus
 - zonebloem-olie
+
+ontbijt:
+- volkoren brood
+- kipfilet
+- vitamine water
